@@ -1,0 +1,7 @@
+{
+    "servers": {
+        "PokeAPI": {
+            "url": "https://apim-mcp-basic.azure-api.net/pokeapi-mcp/mcp"
+        }
+    }
+}
